@@ -12,3 +12,6 @@ The exam details are as follows:
 * https://academy.databricks.com/exam/databricks-certified-associate-developer
 * https://academy.databricks.com/training-faq#cert-faq
 
+
+## Reading Materials :
+* http://spark.apache.org/docs/2.1.0/api/python/pyspark.html#pyspark.SparkConf
