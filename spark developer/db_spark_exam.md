@@ -1,0 +1,8 @@
+databricks-certified-associate-developer Exam :
+
+The exam details are as follows:
+* The exam consists of 60 multiple-choice questions. Candidates will have 120 minutes to complete the exam.
+* The minimum passing score for the exam is 70 percent. This translates to correctly answering a minimum of 42 of the 60 questions.
+* The exam will be conducted via an online proctor.
+* During the exam, candidates will be provided with a PDF version of the Apache Spark documentation for the language in which they are taking the exam and a digital notepad for taking notes and writing example code.
+* No free Retakes
