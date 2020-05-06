@@ -7,3 +7,8 @@ The exam details are as follows:
 * During the exam, candidates will be provided with a PDF version of the Apache Spark documentation for the language in which they are taking the exam and a digital notepad for taking notes and writing example code.
 * No free Retakes
 * Exam Fee : 200
+
+#### References
+* https://academy.databricks.com/exam/databricks-certified-associate-developer
+* https://academy.databricks.com/training-faq#cert-faq
+
