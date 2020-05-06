@@ -6,3 +6,4 @@ The exam details are as follows:
 * The exam will be conducted via an online proctor.
 * During the exam, candidates will be provided with a PDF version of the Apache Spark documentation for the language in which they are taking the exam and a digital notepad for taking notes and writing example code.
 * No free Retakes
+* Exam Fee : 200
