@@ -1,4 +1,4 @@
-databricks-certified-associate-developer Exam :
+# Databricks-certified-associate-developer Exam :
 
 The exam details are as follows:
 * The exam consists of 60 multiple-choice questions. Candidates will have 120 minutes to complete the exam.
