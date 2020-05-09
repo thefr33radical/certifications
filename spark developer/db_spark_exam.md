@@ -1,4 +1,4 @@
-# Databricks Certified Associate Developer for Apache Spark 2.4 (APR 2020)
+## Databricks Certified Associate Developer for Apache Spark 2.4 (APR 2020)
 
 The exam details are as follows:
 * The exam consists of 60 multiple-choice questions. Candidates will have 120 minutes to complete the exam.
