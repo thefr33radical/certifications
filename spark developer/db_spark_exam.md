@@ -8,12 +8,12 @@ The exam details are as follows:
 * No free Retakes
 * Exam Fee : 200
 
-#### References
+#### Exam Details :
 * https://academy.databricks.com/exam/databricks-certified-associate-developer
 * https://academy.databricks.com/training-faq#cert-faq
 
 
-## Reading Materials :
+#### Reading Materials :
 
 * [Documentation](http://spark.apache.org/docs/2.1.0/api/python/pyspark.html#pyspark.SparkConf)
 * [Linkedin_Experience](https://www.linkedin.com/pulse/all-you-need-clear-crt020-databricks-certified-associate-kumar/) 
