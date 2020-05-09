@@ -14,7 +14,8 @@ The exam details are as follows:
 
 
 ## Reading Materials :
-* http://spark.apache.org/docs/2.1.0/api/python/pyspark.html#pyspark.SparkConf
+```
+* [Documentation]http://spark.apache.org/docs/2.1.0/api/python/pyspark.html#pyspark.SparkConf
+* [Linkedin_Experience](https://www.linkedin.com/pulse/all-you-need-clear-crt020-databricks-certified-associate-kumar/) 
+````
 
-* [M1](https://www.linkedin.com/pulse/all-you-need-clear-crt020-databricks-certified-associate-kumar/) 
-* 
