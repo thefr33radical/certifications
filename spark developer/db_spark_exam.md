@@ -25,4 +25,5 @@ The exam details are as follows:
 * https://towardsdatascience.com/should-i-repartition-836f7842298c
 * https://sparkbyexamples.com/spark/spark-repartition-vs-coalesce/
 * https://www.unraveldata.com/common-failures-slowdowns-part-ii/
+* https://databricks.com/session/optimizing-apache-spark-sql-joins
 
