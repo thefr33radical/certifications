@@ -19,3 +19,6 @@ The exam details are as follows:
 * [Linkedin_Experience](https://www.linkedin.com/pulse/all-you-need-clear-crt020-databricks-certified-associate-kumar/) 
 
 
+* https://towardsdatascience.com/the-most-complete-guide-to-pyspark-dataframes-2702c343b2e8#990b
+
+
