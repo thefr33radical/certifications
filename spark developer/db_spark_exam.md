@@ -24,5 +24,5 @@ The exam details are as follows:
 * https://www.dezyre.com/article/how-data-partitioning-in-spark-helps-achieve-more-parallelism/297#:~:text=A%20partition%20in%20spark%20is,Spark%20are%20collection%20of%20partitions.
 * https://towardsdatascience.com/should-i-repartition-836f7842298c
 * https://sparkbyexamples.com/spark/spark-repartition-vs-coalesce/
-* 
+* https://www.unraveldata.com/common-failures-slowdowns-part-ii/
 
