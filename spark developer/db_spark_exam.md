@@ -25,4 +25,5 @@ The exam details are as follows:
 * https://www.unraveldata.com/common-failures-slowdowns-part-ii/
 * https://databricks.com/session/optimizing-apache-spark-sql-joins
 * https://www.youtube.com/watch?v=fp53QhSfQcI
+* https://dzone.com/articles/introduction-to-spark-session
 
