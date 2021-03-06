@@ -26,4 +26,4 @@ The exam details are as follows:
 * https://databricks.com/session/optimizing-apache-spark-sql-joins
 * https://www.youtube.com/watch?v=fp53QhSfQcI
 * https://dzone.com/articles/introduction-to-spark-session
-
+* https://stackoverflow.com/questions/42263270/what-is-the-concept-of-application-job-stage-and-task-in-spark
