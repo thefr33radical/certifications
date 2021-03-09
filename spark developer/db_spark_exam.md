@@ -29,3 +29,4 @@ The exam details are as follows:
 * https://stackoverflow.com/questions/42263270/what-is-the-concept-of-application-job-stage-and-task-in-spark
 * https://sparkbyexamples.com/pyspark/pyspark-join-explained-with-examples/
 * https://sparkbyexamples.com/pyspark-tutorial/
+* https://medium.com/analytics-vidhya/apache-spark-memory-management-49682ded3d42
